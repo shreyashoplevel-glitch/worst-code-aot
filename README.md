@@ -1,2 +1,2 @@
 # worst-code-aot
-it just sucks run output.py btw v1
+it just sucks run make_new_file.py btw v1.1
